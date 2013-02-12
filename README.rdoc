@@ -2,3 +2,5 @@
 
 This is an example Rails project that uses the asset pipeline to build Angular.js modules.
 
+# TODO: how to integrate testacular tests for your Angular.js code
+# TODO: write up why this is better than other modularisation techniques
