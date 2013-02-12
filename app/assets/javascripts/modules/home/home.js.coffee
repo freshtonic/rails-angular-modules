@@ -1,0 +1,2 @@
+angular.module 'my-home', []
+
